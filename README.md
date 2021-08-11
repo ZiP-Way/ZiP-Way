@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ZiP-Way
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I'm interested in Game Development
+- 🌱 I’m currently learning Unity and C#
 - 📫 How to reach me: zip.way.dev@gmail.com
 <!---
 ZiP-Way/ZiP-Way is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
