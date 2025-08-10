@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZiP-Way
+- 👋 Hi, I’m Maksym
 - 👀 I'm interested in Game Development
 - 🌱 I’m currently learning Unity and C#
 - 📫 How to reach me: zip.way.dev@gmail.com
